@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/tobeputinpng
-title: Cotton
+title: ObstacleCourse
 permalink: projects/trafficracing
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-01
