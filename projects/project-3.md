@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/tobeputinpng
+image: images/caranimated.png
 title: ObstacleCourse
 permalink: projects/trafficracing
 # All dates must be YYYY-MM-DD format!
