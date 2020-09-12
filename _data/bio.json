@@ -70,12 +70,13 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Atmospheric Sciences and Computer Sciences (Expected grad in 2021)",
-      "studyType": "B.S.",
+      "area": "Atmospheric Sciences and Minor in Computer Sciences (Expected grad in 2021)",
+      "studyType": "B.S. and Minor",
       "startDate": "2017-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        
       ]
     }
   ],
