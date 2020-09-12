@@ -76,6 +76,18 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "Tropical Analysis",
+        "Satellite Meteorology",
+        "Atmospheric Physics",
+        "Atmospheric Dynamics",
+        "Applied Atmospheric Dynamics",
+        "Intro to Computer Science",
+        "Intro to Computer Science II",
+        "Intro to Discrete Math",
+        "Elementary Probability & Statistics",
+        "Intro to Differential Equations",
+        "Calculus 1 through 4"
+        
         
       ]
     }
