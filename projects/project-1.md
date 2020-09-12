@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pipelinesurf.jpeg
+image: images/pipelinesurf.png
 title: Surf Verification
 permalink: projects/surfverification
 # All dates must be YYYY-MM-DD format!
