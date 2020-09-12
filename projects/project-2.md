@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/tobeputin
+image: images/pokerAce.png
 title: Poker
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
