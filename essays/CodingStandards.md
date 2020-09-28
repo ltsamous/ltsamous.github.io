@@ -4,8 +4,8 @@ type: essay
 title: Flexibility
 date: 2020-09-25
 labels:
-  -efficiency
-  -rythm
+  - efficiency
+  - rythm
 
 ---
 
