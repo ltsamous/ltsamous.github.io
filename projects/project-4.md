@@ -28,6 +28,8 @@ Here is a screenshot of some sample code taken from my student resources homepag
 
 The page layout turned out to look like this:
 
+<img src="images/StudentResourcesPage.png">
+
 ---
 
 
