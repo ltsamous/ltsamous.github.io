@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Tough But Worth it
-date: 2020-09-25
+date: 2020-12-15
 labels:
   - Fall 2020
   - COVID semester
