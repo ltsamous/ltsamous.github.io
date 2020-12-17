@@ -22,7 +22,7 @@ Here is a screenshot of some sample code taken from my student resources homepag
 
 ---
 
-<img src="images/StudentResourcesCode.png">
+<img src="images/HawaiiImages.png">
 
 ---
 
