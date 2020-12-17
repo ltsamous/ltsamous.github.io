@@ -20,9 +20,15 @@ In order to help those seeking important COVID information, each team member com
 
 Here is a screenshot of some sample code taken from my student resources homepage:
 
+---
+
 image: images/StudentResourcesCode.png
 
+---
+
 The page layout turned out to look like this:
+
+---
 
 
 The other main contribution I had on the COVID KOKUA project was the login portion. I made it possible to login as a user in which the user would then be able to add resources and make changes.
