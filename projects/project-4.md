@@ -34,6 +34,6 @@ The page layout turned out to look like this:
 
 The project was managed using github desktop, in which each team member made their own branch, then cloned to their local desktop. When their branch was error free and fully functional, it would then be merged with the main branch. The bulk of the work was done using intellij, which github would save changes to, allowing  each member to push their changes to their branch. Finally the web application was deployed to digital ocean and is fully operational. 
 
-This project has been a very valuable learning experience and I hope it helps people in need of COVID resources. Also a big thanks to my teammates who helped make this project and professor Dr. Johnson and his star TA Brandon Ogata for providing meaningful direction and feedback. For more information, here is the link to the github page which contains all of the source code:<a href="https://github.com/covid-kokua/covid-kokua"> 
+This project has been a very valuable learning experience and I hope it helps people in need of COVID resources. Also a big thanks to my teammates who helped make this project and professor Dr. Johnson and his star TA Brandon Ogata for providing meaningful direction and feedback. For more information, here is the link to the github page which contains all of the source code: https://github.com/covid-kokua/covid-kokua" 
 
 ---
