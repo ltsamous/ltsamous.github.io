@@ -20,6 +20,7 @@ In order to help those seeking important COVID information, each team member com
 
 Here is a screenshot of some sample code taken from my student resources homepage:
 
+image: images/StudentResourcesCode.png
 
 The page layout turned out to look like this:
 
