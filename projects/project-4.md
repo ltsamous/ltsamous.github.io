@@ -22,13 +22,13 @@ Here is a screenshot of some sample code taken from my student resources homepag
 
 ---
 
-<img src=images/HawaiiImages.png>
+<img class="ui medium left floated image" src="../images/StudentResourcesCode.png">
 
 ---
 
 The page layout turned out to look like this:
 
-<img src=images/StudentResourcesPage.png>
+<img class="ui medium left floated image" src="../images/StudentResourcesPage.png">
 
 ---
 
